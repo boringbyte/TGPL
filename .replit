@@ -1,2 +1,2 @@
 language = "go"
-run = ""
+run = "go run ch01/helloworld/helloworld.go"
